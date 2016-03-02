@@ -1,8 +1,6 @@
 # MensTennisRankings
 
-Welcome to your new gem! In this directory, you'll find the files you need to be able to package up your Ruby library into a gem. Put your Ruby code in the file `lib/mens_tennis_rankings`. To experiment with that code, run `bin/console` for an interactive prompt.
-
-TODO: Delete this and the text above, and describe your gem
+This Ruby Gem uses a CLI to list the top 100 ranked male tennis players. This gem lets you view each player's profile information and tennis win-loss records. You can also search for head-to-head records between players in the top 100. 
 
 ## Installation
 
@@ -22,7 +20,9 @@ Or install it yourself as:
 
 ## Usage
 
-TODO: Write usage instructions here
+Type the below and follow the on screen prompts.
+    
+    $ mens_tennis_rankings
 
 ## Development
 
