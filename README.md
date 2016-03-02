@@ -1,6 +1,6 @@
 # MensTennisRankings
 
-This Ruby Gem uses a CLI to list the top 100 ranked male tennis players. This gem lets you view each player's profile information and tennis win-loss records. You can also search for head-to-head records between players in the top 100. 
+This Ruby Gem uses a CLI to list the top 100 ranked male tennis players. This gem lets you view each player's profile information and tennis win-loss records. You can also search for head-to-head records between players in the top 100.
 
 ## Installation
 
@@ -20,8 +20,8 @@ Or install it yourself as:
 
 ## Usage
 
-Type the below and follow the on screen prompts.
-    
+Type the command below and follow the on screen prompts.
+
     $ mens_tennis_rankings
 
 ## Development
